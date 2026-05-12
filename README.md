@@ -2,8 +2,8 @@
 
 A modern **full-stack job portal** built with Spring Boot + React + TypeScript. Connect recruiters with job seekers in a clean, professional environment.
 
-![JobSphere](https://via.placeholder.com/800x400/1e3a8a/ffffff?text=JobSphere+Dashboard)  
-*(Add screenshots here later)*
+<img width="1163" height="827" alt="image" src="https://github.com/user-attachments/assets/7e30d589-211f-45d2-8765-6b93170e0f82" />
+
 
 ## ✨ Features
 
