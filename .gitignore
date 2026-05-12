@@ -1,0 +1,27 @@
+# Backend
+backend/.idea/
+backend/.vscode/
+backend/target/
+backend/*.log
+backend/src/main/resources/uploads/
+
+# Frontend
+frontend/node_modules/
+frontend/.vite/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# General
+.DS_Store
+*.env
+*.log
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+TECHNICAL-DOCUMENTATION.md
