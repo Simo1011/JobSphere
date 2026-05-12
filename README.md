@@ -3,6 +3,7 @@
 A modern **full-stack job portal** built with Spring Boot + React + TypeScript. Connect recruiters with job seekers in a clean, professional environment.
 
 <img width="1163" height="827" alt="image" src="https://github.com/user-attachments/assets/7e30d589-211f-45d2-8765-6b93170e0f82" />
+<img width="1140" height="835" alt="image" src="https://github.com/user-attachments/assets/dbe00eb2-7504-4a94-82bd-ca01eb1229d8" />
 
 
 ## ✨ Features
