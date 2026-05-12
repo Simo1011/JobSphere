@@ -1,0 +1,47 @@
+:root {
+  --bg: #0f172a; 
+  --text: #9ca3af;
+  --text-h: #ffffff;
+  --accent: #3b82f6;
+  /* 1. Update the font variable to Inter */
+  --sans: 'Inter', system-ui, -apple-system, sans-serif;
+
+  /* 2. Apply Inter globally and sharpen the rendering */
+  font: 18px/145% var(--sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color-scheme: dark;
+  background-color: #0f172a;
+}
+
+#root {
+  width: 100% !important;
+  max-width: 100vw !important;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #0f172a;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--sans); /* Ensure body inherits Inter */
+  background-color: #0f172a !important;
+  overflow-x: hidden;
+}
+
+/* 3. Give headings that tight, professional tech look */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+  font-family: var(--sans);
+  letter-spacing: -0.025em; /* This makes Inter look very premium */
+  font-weight: 700;
+}
+
+.container {
+  max-width: 1200px !important;
+}
